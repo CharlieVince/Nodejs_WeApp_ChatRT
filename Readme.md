@@ -1,6 +1,6 @@
-#Proyecto chat con WebSocket 📨
+# Proyecto chat con WebSocket 📨
 
-##Configuraciones npm
+## Configuraciones npm
 
 * npm init
 * npm install express
