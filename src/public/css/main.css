@@ -5,3 +5,7 @@ body {
 
     color: white;
 }
+
+#contentPrincipal{
+    display: none;
+}
